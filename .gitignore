@@ -1,0 +1,9 @@
+.idea
+bin
+lib/
+lib64
+mean.csv
+pip-selfcheck.json
+pyvenv.cfg
+tiffs/
+vector/
