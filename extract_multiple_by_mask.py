@@ -61,5 +61,5 @@ def run(codename):
     return
 
 
-## to called the function run it's necessary give the name of atribute that's will separe the shapefile to make the statistics
+## to called the function run it's necessary give the name of atribute that's will select features on shapefile to make the statistics
 run('nome')
